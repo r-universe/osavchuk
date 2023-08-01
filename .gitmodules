@@ -5,9 +5,9 @@
 [submodule "ICV"]
 	path = ICV
 	url = https://github.com/cran/ICV
-[submodule "npregderiv"]
-	path = npregderiv
-	url = https://github.com/cran/npregderiv
 [submodule "OSCV"]
 	path = OSCV
 	url = https://github.com/cran/OSCV
+[submodule "npregderiv"]
+	path = npregderiv
+	url = https://github.com/cran/npregderiv
